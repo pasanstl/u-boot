@@ -1,0 +1,10 @@
+spl.c:22:6:board_return_to_bootrom	0	static
+spl.c:30:13:board_spl_was_booted_from	0	static
+spl.c:48:5:spl_boot_device	0	static
+spl.c:63:5:spl_boot_mode	0	static
+spl.c:68:13:rockchip_stimer_init	0	static
+spl.c:84:12:arch_cpu_init	0	static
+spl.c:89:12:rk_board_init_f	0	static
+spl.c:144:6:board_init_f	16	static
+spl.c:197:5:board_fit_config_name_match	0	static
+spl.c:254:6:spl_perform_fixups	0	static

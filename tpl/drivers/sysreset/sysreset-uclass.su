@@ -1,0 +1,5 @@
+sysreset-uclass.c:18:5:sysreset_request	0	static
+sysreset-uclass.c:28:5:sysreset_walk	48	static
+sysreset-uclass.c:61:6:sysreset_walk_halt	32	static
+sysreset-uclass.c:79:6:reset_cpu	16	static
+sysreset-uclass.c:85:5:do_reset	16	static

@@ -1,0 +1,6 @@
+test-storage.c:305:12:do_test_vendor	0	static
+test-storage.c:368:12:do_test_part	0	static
+test-storage.c:26:14:blk_get_type_by_name	32	static
+test-storage.c:59:12:do_test_storage.isra.0.constprop	336	static
+test-storage.c:249:12:do_test_emmc	0	static
+test-storage.c:255:12:do_test_sdmmc	0	static

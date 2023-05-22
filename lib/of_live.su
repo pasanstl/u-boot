@@ -1,0 +1,2 @@
+of_live.c:44:14:unflatten_dt_node	144	static
+of_live.c:320:5:of_live_build	80	static

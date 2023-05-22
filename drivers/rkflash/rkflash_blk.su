@@ -1,0 +1,4 @@
+rkflash_blk.c:16:7:rkflash_bread	64	static
+rkflash_blk.c:35:7:rkflash_bwrite	64	static
+rkflash_blk.c:53:7:rkflash_berase	48	static
+rkflash_blk.c:71:12:rkflash_blk_probe	48	static

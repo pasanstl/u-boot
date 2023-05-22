@@ -1,0 +1,6 @@
+rkflash_debug.c:17:20:rkflash_print_dio	0	static
+rkflash_debug.c:35:20:rkflash_print_bio	0	static
+rkflash_debug.c:53:20:rkflash_print_info	0	static
+rkflash_debug.c:69:20:rkflash_print_error	272	static
+rkflash_debug.c:85:6:rkflash_print_hex	0	static
+rkflash_debug.c:194:6:rkflash_test	0	static

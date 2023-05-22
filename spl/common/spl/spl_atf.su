@@ -1,0 +1,4 @@
+spl_atf.c:124:12:spl_fit_images_find	64	static
+spl_atf.c:98:6:bl31_entry	64	static
+spl_atf.c:153:11:spl_fit_images_get_entry	32	static
+spl_atf.c:165:6:spl_invoke_atf	48	static

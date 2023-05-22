@@ -1,0 +1,7 @@
+rockchip_wtemp_dvfs.c:601:12:wtemp_dvfs_probe	32	static
+rockchip_wtemp_dvfs.c:133:13:temp2string.constprop	0	static
+rockchip_wtemp_dvfs.c:494:12:wtemp_dvfs_ofdata_to_platdata	144	static
+rockchip_wtemp_dvfs.c:241:13:wtemp_dvfs_high_temp_adjust.isra.2	80	static
+rockchip_wtemp_dvfs.c:287:12:__wtemp_dvfs_apply	96	static
+rockchip_wtemp_dvfs.c:413:12:wtemp_dvfs_repeat_apply	128	static
+rockchip_wtemp_dvfs.c:387:12:wtemp_dvfs_apply	80	static

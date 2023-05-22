@@ -1,0 +1,9 @@
+rk_atags.c:119:12:bad_magic	32	static
+rk_atags.c:159:5:atags_is_available	0	static
+rk_atags.c:166:5:atags_set_tag	80	static
+rk_atags.c:305:13:atags_get_tag	0	static
+rk_atags.c:309:5:get_bootdev_by_brom_bootsource	0	static
+rk_atags.c:320:5:atags_set_bootdev_by_brom_bootsource	64	static
+rk_atags.c:330:5:get_bootdev_by_spl_bootdevice	0	static
+rk_atags.c:338:5:atags_set_bootdev_by_spl_bootdevice	80	static
+rk_atags.c:351:6:atags_destroy	0	static

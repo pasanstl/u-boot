@@ -1,0 +1,12 @@
+bidram.c:25:12:bidram_has_init	16	static
+bidram.c:203:12:bidram_core_reserve	112	static
+bidram.c:35:6:bidram_dump	96	static
+bidram.c:452:12:do_dump_bidram	16	static
+bidram.c:120:6:bidram_gen_gd_bi_dram	0	static
+bidram.c:185:18:bidram_reserved_is_overlap	32	static
+bidram.c:303:5:bidram_reserve	32	static
+bidram.c:316:5:bidram_reserve_by_name	32	static
+bidram.c:440:19:board_bidram_parse_fn	0	static
+bidram.c:446:12:board_bidram_reserve	0	static
+bidram.c:335:13:bidram_get_ram_size	688	static
+bidram.c:330:5:bidram_initr	16	static

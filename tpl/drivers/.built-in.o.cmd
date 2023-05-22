@@ -1,0 +1,1 @@
+cmd_tpl/drivers/built-in.o :=  /home/pasan/proj/rk3308_linux_release_v1.5.0a/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o tpl/drivers/built-in.o tpl/drivers/core/built-in.o tpl/drivers/misc/built-in.o tpl/drivers/sysreset/built-in.o tpl/drivers/firmware/built-in.o tpl/drivers/serial/built-in.o 

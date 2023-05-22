@@ -1,0 +1,15 @@
+sysmem.c:36:6:sysmem_has_init	0	static
+sysmem.c:318:14:sysmem_alloc_align_base.constprop	128	static
+sysmem.c:58:6:sysmem_dump	96	static
+sysmem.c:792:12:do_dump_sysmem	16	static
+sysmem.c:164:6:sysmem_overflow_check	112	static
+sysmem.c:550:7:sysmem_alloc	32	static
+sysmem.c:565:7:sysmem_alloc_by_name	32	static
+sysmem.c:580:7:sysmem_alloc_base	32	static
+sysmem.c:595:7:sysmem_alloc_base_by_name	32	static
+sysmem.c:611:7:sysmem_fdt_reserve_alloc_base	32	static
+sysmem.c:627:6:sysmem_can_alloc	64	static
+sysmem.c:659:5:sysmem_free	64	static
+sysmem.c:786:12:board_sysmem_reserve	0	static
+sysmem.c:705:5:sysmem_init	80	static
+sysmem.c:700:5:sysmem_initr	0	static

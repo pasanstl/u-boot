@@ -1,0 +1,11 @@
+nandc.c:29:4:nandc_get_version	0	static
+nandc.c:68:6:nandc_flash_cs	0	static
+nandc.c:77:6:nandc_flash_de_cs	0	static
+nandc.c:87:5:nandc_delayns	16	static
+nandc.c:93:5:nandc_wait_flash_ready	32	static
+nandc.c:112:6:nandc_randmz_sel	0	static
+nandc.c:117:6:nandc_time_cfg	0	static
+nandc.c:34:6:nandc_init	32	static
+nandc.c:136:6:nandc_bch_sel	0	static
+nandc.c:367:5:nandc_xfer_data	176	static
+nandc.c:439:6:nandc_clean_irq	0	static

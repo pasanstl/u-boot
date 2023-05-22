@@ -1,0 +1,1 @@
+cmd_spl/drivers/clk/rockchip/built-in.o :=  /home/pasan/proj/rk3308_linux_release_v1.5.0a/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o spl/drivers/clk/rockchip/built-in.o spl/drivers/clk/rockchip/clk_pll.o spl/drivers/clk/rockchip/clk_rk3308.o 

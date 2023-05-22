@@ -1,0 +1,5 @@
+rockchip_dw_mmc.c:62:12:rockchip_dwmmc_ofdata_to_platdata	48	static
+rockchip_dw_mmc.c:40:13:rockchip_dwmmc_get_mmc_clk	32	static
+rockchip_dw_mmc.c:152:12:rockchip_dwmmc_probe	64	static
+rockchip_dw_mmc.c:106:12:rockchip_dwmmc_execute_tuning	64	static
+rockchip_dw_mmc.c:225:12:rockchip_dwmmc_bind	32	static

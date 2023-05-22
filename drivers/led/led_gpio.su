@@ -1,0 +1,5 @@
+led_gpio.c:45:25:gpio_led_get_state	16	static
+led_gpio.c:21:12:gpio_led_set_state	32	static
+led_gpio.c:88:12:led_gpio_remove	32	static
+led_gpio.c:59:12:led_gpio_probe	48	static
+led_gpio.c:104:12:led_gpio_bind	80	static

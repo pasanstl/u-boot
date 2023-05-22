@@ -1,0 +1,5 @@
+pwm_regulator.c:61:12:pwm_regulator_get_voltage	16	static
+pwm_regulator.c:44:12:pwm_regulator_enable	32	static
+pwm_regulator.c:68:12:pwm_regulator_set_voltage	64	static
+pwm_regulator.c:94:12:pwm_regulator_ofdata_to_platdata	112	static
+pwm_regulator.c:130:12:pwm_regulator_probe	32	static

@@ -1,0 +1,5 @@
+param.c:53:17:param_parse_atf_mem	48	static
+param.c:97:17:param_parse_optee_mem	32	static
+param.c:144:17:param_parse_common_resv_mem	0	static
+param.c:165:5:param_parse_bootdev	32	static
+param.c:243:18:param_parse_ddr_mem	80	static

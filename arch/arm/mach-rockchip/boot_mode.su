@@ -1,0 +1,5 @@
+boot_mode.c:37:6:set_back_to_bootrom_dnl_flag	0	static
+boot_mode.c:52:12:rockchip_dnl_key_pressed	16	static
+boot_mode.c:93:6:boot_devtype_init	64	static
+boot_mode.c:146:6:rockchip_dnl_mode_check	16	static
+boot_mode.c:167:5:setup_boot_mode	288	static

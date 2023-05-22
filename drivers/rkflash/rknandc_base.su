@@ -1,0 +1,4 @@
+rknandc_base.c:68:12:rockchip_nand_ofdata_to_platdata	32	static
+rknandc_base.c:77:12:rockchip_nand_probe	48	static
+rknandc_base.c:52:12:rknand_blk_bind	32	static
+rknandc_base.c:32:5:rknand_scan_namespace	48	static

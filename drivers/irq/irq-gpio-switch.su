@@ -1,0 +1,8 @@
+irq-gpio-switch.c:45:12:gpio_is_valid	16	static
+irq-gpio-switch.c:58:12:__hard_gpio_to_irq	32	static
+irq-gpio-switch.c:156:5:gpio_to_irq	64	static
+irq-gpio-switch.c:203:5:hard_gpio_to_irq	32	static
+irq-gpio-switch.c:211:5:phandle_gpio_to_irq	64	static
+irq-gpio-switch.c:219:5:irq_to_gpio	0	static
+irq-gpio-switch.c:224:19:gpio_id_to_bank	0	static
+irq-gpio-switch.c:236:19:gpio_to_bank	32	static

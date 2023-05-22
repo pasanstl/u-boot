@@ -1,0 +1,5 @@
+sfc.c:16:13:sfc_reset	32	static
+sfc.c:28:5:sfc_get_version	0	static
+sfc.c:33:5:sfc_init	32	static
+sfc.c:42:6:sfc_clean_irq	0	static
+sfc.c:48:5:sfc_request	112	static

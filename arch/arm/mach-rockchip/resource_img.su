@@ -1,0 +1,6 @@
+resource_img.c:149:12:add_file_to_list	48	static
+resource_img.c:470:30:get_file_info	256	static
+resource_img.c:118:12:rk_board_early_fdt_fixup	0	static
+resource_img.c:490:5:rockchip_get_resource_file_offset	16	static
+resource_img.c:508:5:rockchip_read_resource_file	64	static
+resource_img.c:923:5:rockchip_read_dtb_file	64	static

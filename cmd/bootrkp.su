@@ -1,0 +1,2 @@
+bootrkp.c:14:12:do_boot_rockchip	224	static
+bootrkp.c:83:12:do_rkimg_test	48	static

@@ -1,0 +1,2 @@
+lz4_wrapper.c:66:6:lz4_is_valid_header	0	static
+lz4_wrapper.c:80:5:ulz4fn	320	static

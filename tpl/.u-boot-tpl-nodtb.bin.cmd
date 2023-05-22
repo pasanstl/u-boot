@@ -1,0 +1,1 @@
+cmd_tpl/u-boot-tpl-nodtb.bin := /home/pasan/proj/rk3308_linux_release_v1.5.0a/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-objcopy  -j .text -j .secure_text -j .secure_data -j .rodata -j .data -j .u_boot_list -j .rela.dyn -j .got -j .got.plt -j .dtb.init.rodata  -O binary  tpl/u-boot-tpl tpl/u-boot-tpl-nodtb.bin

@@ -1,0 +1,1 @@
+cmd_dts/dt-tpl.dtb := ./tools/fdtgrep -b u-boot,dm-pre-reloc -b u-boot,dm-tpl -RT arch/arm/dts/rk3308-evb-debug-uart4.dtb -n /config -O dtb | ./tools/fdtgrep -r -O dtb - -o dts/dt-tpl.dtb -P pinctrl-0 -P pinctrl-names -P clock-names -P interrupt-parent -P assigned-clocks -P assigned-clock-rates -P assigned-clock-parents

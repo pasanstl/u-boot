@@ -1,0 +1,7 @@
+rk3308.c:301:13:fixup_pcfg_drive_strength	64	static
+rk3308.c:131:5:rk_board_init	16	static
+rk3308.c:158:5:rk_board_init_f	16	static
+rk3308.c:180:6:board_debug_uart_init	0	static
+rk3308.c:197:5:arch_cpu_init	0	static
+rk3308.c:370:5:rk_board_fdt_fixup	80	static
+rk3308.c:384:5:rk_board_early_fdt_fixup	16	static

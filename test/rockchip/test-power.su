@@ -1,0 +1,6 @@
+test-power.c:186:12:do_test_charge	0	static
+test-power.c:130:12:do_test_thermal	48	static
+test-power.c:92:12:do_test_reset	0	static
+test-power.c:100:12:do_test_dvfs	0	static
+test-power.c:155:12:do_test_pmic	80	static
+test-power.c:64:12:do_test_regulator	144	static

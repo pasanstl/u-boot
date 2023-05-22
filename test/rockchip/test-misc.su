@@ -1,0 +1,4 @@
+test-misc.c:27:13:timer_irq_handler	32	static
+test-misc.c:88:5:do_test_timer	32	static
+test-misc.c:194:12:do_test_adc	48	static
+test-misc.c:154:5:do_test_key	64	static

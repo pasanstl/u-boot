@@ -1,0 +1,15 @@
+adc-uclass.c:50:12:adc_supply_enable	48	static
+adc-uclass.c:259:12:adc_vdd_platdata_update	32	static
+adc-uclass.c:284:12:adc_vss_platdata_update	32	static
+adc-uclass.c:385:12:adc_pre_probe	32	static
+adc-uclass.c:30:12:check_channel	48	static
+adc-uclass.c:72:5:adc_data_mask	32	static
+adc-uclass.c:83:5:adc_stop	32	static
+adc-uclass.c:93:5:adc_start_channel	48	static
+adc-uclass.c:112:5:adc_start_channels	48	static
+adc-uclass.c:131:5:adc_channel_data	64	static
+adc-uclass.c:157:5:adc_channels_data	64	static
+adc-uclass.c:184:5:adc_channel_single_shot	48	static
+adc-uclass.c:232:5:adc_channels_single_shot	64	static
+adc-uclass.c:303:5:adc_vdd_value	48	static
+adc-uclass.c:324:5:adc_vss_value	48	static

@@ -1,0 +1,16 @@
+rockchip_thermal.c:771:5:rockchip_thermal_get_temp	32	static
+rockchip_thermal.c:753:13:tsadc_tshut_mode_v2	32	static
+rockchip_thermal.c:530:13:tsadc_irq_ack_v3	16	static
+rockchip_thermal.c:567:13:tsadc_init_v2	16	static
+rockchip_thermal.c:553:13:tsadc_control_v2	32	static
+rockchip_thermal.c:539:13:tsadc_control_v3	32	static
+rockchip_thermal.c:521:13:tsadc_irq_ack_v2	16	static
+rockchip_thermal.c:876:12:rockchip_thermal_ofdata_to_platdata	32	static
+rockchip_thermal.c:623:12:tsadc_get_temp_v2	32	static
+rockchip_thermal.c:807:12:rockchip_thermal_probe	80	static
+rockchip_thermal.c:614:13:tsadc_init_v4	32	static
+rockchip_thermal.c:588:13:tsadc_init_v3	32	static
+rockchip_thermal.c:487:12:tsadc_temp_to_code_v2.isra.0	32	static
+rockchip_thermal.c:735:13:tsadc_tshut_temp_v2	48	static
+rockchip_thermal.c:717:13:tsadc_alarm_temp_v2	48	static
+rockchip_thermal.c:705:12:tsadc_get_temp_v3	32	static

@@ -1,0 +1,4 @@
+rksfc_base.c:93:12:rockchip_rksfc_ofdata_to_platdata	32	static
+rksfc_base.c:102:12:rockchip_rksfc_probe	48	static
+rksfc_base.c:73:12:rksfc_blk_bind	48	static
+rksfc_base.c:53:5:rksfc_scan_namespace	48	static

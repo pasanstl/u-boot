@@ -1,0 +1,16 @@
+sfc_nor.c:75:12:snor_write_en	0	static
+sfc_nor.c:117:12:snor_read_status	16	static
+sfc_nor.c:132:12:snor_wait_busy	64	static
+sfc_nor.c:158:12:snor_write_status2	48	static
+sfc_nor.c:216:12:snor_write_status	64	static
+sfc_nor.c:187:12:snor_write_status1	48	static
+sfc_nor.c:88:5:snor_reset_device	32	static
+sfc_nor.c:237:5:snor_erase	64	static
+sfc_nor.c:271:5:snor_prog_page	48	static
+sfc_nor.c:358:5:snor_disable_QE	64	static
+sfc_nor.c:389:5:snor_read_data	0	static
+sfc_nor.c:428:5:snor_read	80	static
+sfc_nor.c:459:5:snor_write	112	static
+sfc_nor.c:503:5:snor_read_id	0	static
+sfc_nor.c:533:5:snor_get_capacity	0	static
+sfc_nor.c:567:5:snor_init	80	static

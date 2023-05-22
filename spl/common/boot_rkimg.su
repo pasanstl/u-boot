@@ -1,0 +1,8 @@
+boot_rkimg.c:92:5:read_rockchip_image	64	static
+boot_rkimg.c:159:5:get_bootdev_type	176	static
+boot_rkimg.c:260:6:rockchip_set_bootdev	0	static
+boot_rkimg.c:265:18:rockchip_get_bootdev	160	static
+boot_rkimg.c:330:6:board_run_recovery	0	static
+boot_rkimg.c:335:6:board_run_recovery_wipe_data	1392	static
+boot_rkimg.c:384:5:rockchip_get_boot_mode	208	static
+boot_rkimg.c:524:5:boot_rockchip_image	304	static

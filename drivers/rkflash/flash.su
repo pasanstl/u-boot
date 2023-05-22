@@ -1,0 +1,13 @@
+flash.c:79:13:flash_set_sector	0	static
+flash.c:267:13:flash_read_spare	48	static
+flash.c:288:12:flash_get_bad_blk_list	128	static
+flash.c:73:13:flash_bch_sel	0	static
+flash.c:125:12:flash_read_status.isra.0	32	static
+flash.c:248:12:flash_erase_block	48	static
+flash.c:226:12:flash_prog_page	80	static
+flash.c:161:12:flash_read_page_raw	96	static
+flash.c:204:12:flash_read_page	64	static
+flash.c:419:6:nandc_flash_reset	32	static
+flash.c:427:5:nandc_flash_init	112	static
+flash.c:493:6:nandc_flash_get_id	0	static
+flash.c:498:5:nandc_flash_deinit	0	static
